@@ -1,0 +1,68 @@
+.logo-s {
+    position: relative;
+    left: 200px;
+    top: -50px;
+    width: 30%;
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.info {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.info p{
+    text-align: justify;
+    margin-left: 90px; 
+    margin-right: 90px;
+    font-size: 25px;
+    font-family: 'Open Sans', 'Light', sans-serif;
+}
+
+.col-1 {
+    width: 25%;
+    float: left;
+    position: relative;
+    bottom: -80px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Open Sans', 'Light', sans-serif;
+}
+
+.col-1 h3{
+    position: relative;
+    bottom: 20px;
+}
+
+.col-1 p{
+    position: relative;
+    bottom: 37px;
+    text-align: center;
+}
+
+.info-2 {
+    position: relative;
+    top: 235px;
+    right: 580px;
+    text-align: center;
+}
+
+.info-2 h4{
+    position: relative;
+    right: -243px;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h5 {
+    margin-left: 225px;
+    font-size: 25px;
+}

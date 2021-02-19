@@ -1,0 +1,38 @@
+.gallery {
+  position: absolute;
+  bottom: 30px;
+  left: -40px;
+  width: 100%;
+  height: 100%;
+  top: 8%;
+}
+.gallery .item {
+  height: 535px;
+  width: 1351px;
+  overflow: hidden;
+  text-align: center;
+  text-align: justify;
+}
+
+.elemento-1 {
+  border: none;
+  position: absolute;
+  background-color: transparent;
+  z-index: 10;
+  top: 8%;
+  left: 23%;
+  text-align: center;
+}
+
+.elemento-2 {
+  font-size: 14px;
+  color: white;
+  font-family: 'Open Sans', 'Light', sans-serif;
+  top: 50%;
+  left: 37%;
+  border: none;
+  position: absolute;
+  text-align: center;
+  background-color: transparent;
+  z-index: 10;
+}

@@ -1,0 +1,46 @@
+.logo-s {
+    position: relative;
+    left: 200px;
+    top: -50px;
+    width: 30%;
+    cursor: pointer;
+}
+
+.prog {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.prog-1 {
+    width: 100%;
+    float: left;
+    position: relative;
+    bottom: -150px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Open Sans', 'Light', sans-serif;
+
+}
+
+.prog-1 h3{
+    margin-left: 5px;
+    margin-right: 5px;
+    position: relative;
+    color: white;
+    background-color: rgb(107, 109, 109);
+    bottom: 35px;
+
+}
+
+.prog-1 p{
+    width: 33.3%;
+    color: black;
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+}

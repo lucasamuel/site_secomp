@@ -1,0 +1,117 @@
+.logo-s {
+    position: relative;
+    left: 200px;
+    top: -50px;
+    width: 30%;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#login-box-label {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#login-box {
+    position: relative;
+    width: 300px;
+    left: 180px;
+    top: 160px;
+}
+
+.input-div {
+    margin-top: 30px;
+    padding: 5px;
+    background-color: #f2f5f7;
+    border-radius: 3px;
+}
+
+.input-div input{
+    width: 285px;
+    height: 30px;
+    padding-left: 5px;
+    font-size: 18px;
+    font-family: 'Open Sans', 'Light', sans-serif;
+    color: #aeaeae;
+    border-radius: 3px;
+    border: 1px solid #aeaeae;
+}
+
+#botoes {
+    width: 285px;
+    margin-top: 22px;
+    margin-left: 1px;
+    font-size: 16px;
+    font-family: 'Open Sans', 'Light', sans-serif;
+}
+
+.botao {
+    float: right;
+    background-color: rgb(41, 165, 173);
+    padding: 7px 17px;
+    border-radius: 7px;
+    text-shadow: 0px 1px 0px black;
+    box-shadow: 0px 0px 10px #c9c9c9;
+    margin-top: -6px;
+}
+#esqueci-senha {
+    cursor: pointer;
+}
+
+
+#cad-box {
+    position: relative;
+    width: 300px;
+    right: -850px;
+    top: -66px;
+}
+#cad-box-label {
+    margin-left: 65px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input-cad {
+    margin-top: 30px;
+    padding: 5px;
+    background-color: #f2f5f7;
+    border-radius: 3px;
+}
+
+.input-cad input{
+    width: 285px;
+    height: 30px;
+    padding-left: 5px;
+    font-size: 18px;
+    font-family: 'Open Sans', 'Light', sans-serif;
+    color: #aeaeae;
+    border-radius: 3px;
+    border: 1px solid #aeaeae;
+}
+
+.botao-2 {
+    float: right;
+    background-color: rgb(41, 165, 173);
+    padding: 7px 17px;
+    border-radius: 7px;
+    text-shadow: 0px 1px 0px black;
+    box-shadow: 0px 0px 10px #c9c9c9;
+    margin-top: -6px;
+    margin-right: 80px;
+}
+
+.ou {
+    position: relative;
+    text-align: center;
+    margin-left: 71px;
+    bottom: 240px;
+    left: -45px;font-family: 'Open Sans', 'Light', sans-serif;
+}
